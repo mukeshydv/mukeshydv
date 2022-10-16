@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Mukesh Yadav
-- 👀 I’m interested in Swift, Kotlin and Golang
-- 🌱 I’m currently learning Kotlin Multiplatform 
 - 📫 mails4ymukesh@gmail.com
 
 <!---
